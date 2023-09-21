@@ -6,6 +6,7 @@
 
 Want to learn:
 * [dapr](https://docs.dapr.io/getting-started/tutorials/)
+* [atlantis](https://www.runatlantis.io/guide/)
   
 <!---
 dataops-sre/dataops-sre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
