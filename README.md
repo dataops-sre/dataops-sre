@@ -11,6 +11,7 @@ Want to learn:
 * [secrets-store-csi-drive](https://secrets-store-csi-driver.sigs.k8s.io/design-docs)
 * [gefyra](https://gefyra.dev/docs/v1_vs_v2)
 * [pandera](https://pandera.readthedocs.io/en/stable/pyspark.html)
+* Tranfer pvc to another namespace
   
 <!---
 dataops-sre/dataops-sre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
